@@ -1,0 +1,6 @@
+.bsp/
+.scala-build/
+.idea/
+.vscode/
+out/
+target/
